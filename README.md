@@ -1,6 +1,10 @@
 # Munsell Re-renotation: revised
 A revised version of the psychophysical color difference Munsell Re-renotation dataset.
 
+The provided data was published in the following conference paper:
+
+Nikolaev, D., Basova, O., Usaev, G., Tchobanou, M., & Bozhkova, V. (2023, June). Detection and Correction of Errors in Psychophysical Color Difference Munsell Re-renotation Dataset. In London Imaging Meeting (Vol. 4, pp. 40-44). Society for Imaging Science and Technology. https://doi.org/10.2352/lim.2023.4.1.10
+
 Munsell Re-renotation is a psychophysical dataset describing large color differences.
 The dataset includes 2946 colors characterized by standard colorimetric coordinates (x, y, Y) and coordinates in Munsell system (h, V, C).
 The Munsell Re-renotation dataset has been improved in terms of the uniformity of the system compared to the previous dataset version, Munsell Renotation.
